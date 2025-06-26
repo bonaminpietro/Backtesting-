@@ -107,7 +107,7 @@ Possibili **sviluppi futuri** potrebbero includere:
 ## 👨‍💻 Autore
 
 -   **Pietro Bonamin**
--   **Profilo LinkedIn:** `[https://linkedin.com/in/tuo-profilo](https://www.linkedin.com/in/pietro-bonamin-127666203/)`
+-   **Profilo LinkedIn:** `https://www.linkedin.com/in/pietro-bonamin-127666203/`
 -   **Profilo GitHub:** `https://github.com/bonaminpietro`
 
 ## 📄 Licenza
