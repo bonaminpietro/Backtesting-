@@ -63,7 +63,7 @@ Per replicare questa analisi sul tuo computer, segui questi passaggi:
 
 L'analisi è stata condotta sui dati storici dell'ETF `SPY` dal 2010 ad oggi.
 
-#### Curva di Equity: Strategia vs. Buy & Hold
+#### Grafico Strategia Moving Avg Crossover con Buy/Sell indicator
 
 <img width="637" alt="Screenshot 2025-06-26 alle 12 48 24" src="https://github.com/user-attachments/assets/dbac59df-0c0d-44fd-baac-260bcf61359c" />
 
