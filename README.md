@@ -1,4 +1,4 @@
-# Giving-Life-To-Data
+# Backtesting
 A simple backtest of a Moving Average Crossover trading strategy on the S&amp;P 500 using Python, but more is coming...
 
 # Backtesting di una Strategia di Trading: Moving Average Crossover
