@@ -31,7 +31,7 @@ Le regole di trading sono le seguenti:
 
 ## 🛠️ Tecnologie e Librerie Utilizzate
 
--   **Python 3.x**
+-   **Python**
 -   **Pandas:** Per la manipolazione e l'analisi dei dati.
 -   **NumPy:** Per i calcoli numerici.
 -   **yfinance:** Per scaricare i dati storici dei prezzi da Yahoo Finance.
