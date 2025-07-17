@@ -11,7 +11,6 @@ L'obiettivo è analizzare la performance storica della strategia rispetto a un b
 
 - [Descrizione della Strategia](#-descrizione-della-strategia)
 - [Tecnologie e Librerie Utilizzate](#-tecnologie-e-librerie-utilizzate)
-- [Come Eseguire il Progetto](#-come-eseguire-il-progetto)
 - [Risultati del Backtesting](#-risultati-del-backtesting)
 - [Limiti e Possibili Sviluppi Futuri](#-limiti-e-possibili-sviluppi-futuri)
 - [Autore](#-autore)
@@ -37,27 +36,6 @@ Le regole di trading sono le seguenti:
 -   **yfinance:** Per scaricare i dati storici dei prezzi da Yahoo Finance.
 -   **Matplotlib** & **Seaborn:** Per la visualizzazione dei dati e dei risultati.
 -   **Jupyter Notebook / Google Colab:** Come ambiente di sviluppo interattivo.
-
-## 🚀 Come Eseguire il Progetto
-
-Per replicare questa analisi sul tuo computer, segui questi passaggi:
-
-1.  **Clona il repository:**
-    ```bash
-    git clone [https://github.com/](https://github.com/)bonaminpietro/Giving-Life-To-Data.git
-    cd Giving-Life-To-Data
-    ```
-
-2.  **Installa le dipendenze necessarie:**
-    ```bash
-    pip install pandas numpy yfinance matplotlib seaborn jupyter
-    ```
-
-3.  **Avvia Jupyter Notebook:**
-    ```bash
-    jupyter notebook
-    ```
-    Si aprirà una finestra nel tuo browser. Clicca sul file `.ipynb` per aprirlo ed eseguire le celle di codice.
 
 ## 📊 Risultati del Backtesting
 
